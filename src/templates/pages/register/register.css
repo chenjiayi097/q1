@@ -1,0 +1,12 @@
+.App {
+  display: flex;
+  text-align: center;
+}
+
+.login-wrap {
+  justify-content: center;
+  align-items: center;
+  width: 600px;
+  height: 600px;
+  border: 1px solid #000;
+}
